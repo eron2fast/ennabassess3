@@ -59,6 +59,7 @@ flutter:
   uses-material-design: true
   assets:
     - images/eronpogi.jpg
+    - images/ea3.jpg
   fonts:
     - family: Bebas
       fonts:
